@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+#main {
+	background-color: #EEEEEE;
+	font-family: Garamond, Helvetica;
+}
+
+#title {
+	text-align: center;
+}
+
+#img-div {
+	background-color: white;
+}
+
+#image {
+	padding: 1rem;
+}
+
+#img-caption {
+	padding: 0 1rem 0.5rem 1rem;
+	text-align: justify;
+}
+
+#tribute-info h3 {
+	text-align: center;
+	padding: 2rem 2rem 0.5rem 2rem;
+}
+
+#tribute-info li {
+	text-align: justify;
+	padding-right: 2.5rem;
+}
+
+footer {
+	font-weight: bold;
+	padding: 0.5rem 2.5rem 1rem 2.5rem;
+}
+
+footer a {
+	color: #333333;
+}
