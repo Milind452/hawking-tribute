@@ -17,6 +17,11 @@ img {
 	text-align: center;
 }
 
+#title h1 {
+	padding-top: 1rem;
+	font-weight: bold;
+}
+
 #img-div {
 	background-color: white;
 	max-width: 900px;
